@@ -1,5 +1,29 @@
 # @rnef/platform-ios
 
+## 0.11.10
+
+### Patch Changes
+
+- @rock-js/platform-apple-helpers@0.11.10
+- @rock-js/tools@0.11.10
+
+## 0.11.9
+
+### Patch Changes
+
+- c819d6c: bump packages
+- Updated dependencies [c819d6c]
+  - @rock-js/platform-apple-helpers@0.11.9
+  - @rock-js/tools@0.11.9
+
+## 0.11.8
+
+### Patch Changes
+
+- Updated dependencies [c61b273]
+  - @rock-js/platform-apple-helpers@0.11.8
+  - @rock-js/tools@0.11.8
+
 ## 0.11.7
 
 ### Patch Changes

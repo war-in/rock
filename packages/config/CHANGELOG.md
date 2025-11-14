@@ -1,5 +1,28 @@
 # @rnef/config
 
+## 0.11.10
+
+### Patch Changes
+
+- @rock-js/provider-github@0.11.10
+- @rock-js/tools@0.11.10
+
+## 0.11.9
+
+### Patch Changes
+
+- c819d6c: bump packages
+- Updated dependencies [c819d6c]
+  - @rock-js/provider-github@0.11.9
+  - @rock-js/tools@0.11.9
+
+## 0.11.8
+
+### Patch Changes
+
+- @rock-js/provider-github@0.11.8
+- @rock-js/tools@0.11.8
+
 ## 0.11.7
 
 ### Patch Changes

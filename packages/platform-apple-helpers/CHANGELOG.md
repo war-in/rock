@@ -1,5 +1,26 @@
 # @rnef/platform-apple-helpers
 
+## 0.11.10
+
+### Patch Changes
+
+- @rock-js/tools@0.11.10
+
+## 0.11.9
+
+### Patch Changes
+
+- c819d6c: bump packages
+- Updated dependencies [c819d6c]
+  - @rock-js/tools@0.11.9
+
+## 0.11.8
+
+### Patch Changes
+
+- c61b273: fix: always use `RCT_USE_RN_DEP` and `RCT_USE_PREBUILT_RNCORE` values when passed
+  - @rock-js/tools@0.11.8
+
 ## 0.11.7
 
 ### Patch Changes

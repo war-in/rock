@@ -1,5 +1,28 @@
 # rock
 
+## 0.11.10
+
+### Patch Changes
+
+- 3070360: feat: add ccache support in clean command
+  - @rock-js/config@0.11.10
+  - @rock-js/tools@0.11.10
+
+## 0.11.9
+
+### Patch Changes
+
+- c819d6c: bump packages
+- Updated dependencies [c819d6c]
+  - @rock-js/config@0.11.9
+  - @rock-js/tools@0.11.9
+
+## 0.11.8
+
+### Patch Changes
+
+- e4c7365: bump packages
+
 ## 0.11.7
 
 ### Patch Changes
